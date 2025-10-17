@@ -14,6 +14,14 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
+Confira tudo o que temos no nosso youtube. È gratis! Segue o link:
+
+como estou usando a pasta fork porque a minha pasta original deu erro estoi incluindo esse texto.
+
+Curso do Teo é muito bom a didática é incrivel.
+
+
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
@@ -58,9 +66,11 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
+- Alberto Brito
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- lucca filho teste
